@@ -1,6 +1,6 @@
 # Decision Trees
 
-decision tree classifier, which is a simple yet widely used classification technique.
+Decision Tree Classifier, which is a simple yet widely used classification technique.
 [More Information](http://en.wikipedia.org/wiki/Decision_tree)
 
 # What's Classification ?
