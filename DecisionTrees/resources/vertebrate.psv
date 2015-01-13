@@ -1,0 +1,18 @@
+Name|Body Temperature|Skin Cover|Gives Birth|Aquatic Creature|Aerial Creature|Has Legs|Hibernates|Class
+human|warm-blooded|hair|yes|no|no|yes|no|mammal
+python|cold-blooded|scales|no|no|no|no|yes|no-mammal
+salmon|cold-blooded|scales|no|yes|no|no|no|no-mammal
+whale|warm-blooded|hair|yes|yes|no|no|no|no-mammal
+frog|cold-blooded|none|no|semi|no|yes|yes|no-mammal
+komodo|cold-blooded|scales|no|no|no|yes|no|no-mammal
+dragon
+bat|warm-blooded|hair|yes|no|yes|yes|yes|mammal
+pigeon|warm-blooded|feathers|no|no|yes|yes|no|no-mammal
+cat|warm-blooded|fur|yes|no|no|yes|no|mammal
+leopard|cold-blooded|scales|yes|yes|no|no|no|no-mammal
+shark
+turtle|cold-blooded|scales|no|semi|no|yes|no|no-mammal
+penguin|warm-blooded|feathers|no|semi|no|yes|no|no-mammal
+porcupine|warm-blooded|quills|yes|no|no|yes|yes|mammal
+eel|cold-blooded|scales|no|yes|no|no|no|no-mammal
+salamander|cold-blooded|none|no|semi|no|yes|yes|no-mammal
