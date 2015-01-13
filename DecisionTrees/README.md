@@ -55,3 +55,11 @@ Note - You Must add Target Class for each row after this or Edit Script to add y
 
 # Requirements
 Java 8
+
+# Next Work
+
+1- Maximum Split Feature
+2- Support Splitting of Continuous Attributes
+3- Create Script to make .psv file from BigData (Hadoop ,...)
+4- Parallel Files Processing "Support learning from many files on different machine"
+
